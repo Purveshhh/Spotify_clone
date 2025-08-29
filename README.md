@@ -64,4 +64,4 @@ Mobile-friendly UI improvements
 
 🧑‍💻 Author
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Purvesh Gaikwad
